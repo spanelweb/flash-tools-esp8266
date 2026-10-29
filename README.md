@@ -1,7 +1,10 @@
 # Flash Tools ESP8266
 Flash Tools ESP8266 tampilan terminal dipersembahkan oleh Suryo Dwijayanto untuk windows "Based esptool".
 
-``` termux
+## Unduh
+[FlashToolsESP8266.exe](https://github.com/spanelweb/flash-tools-esp8266/releases/download/1.0.0.0/FlashToolsESP8266.exe)
+
+``` txt
 
 
   ███████╗██╗      █████╗ ███████╗██╗  ██╗
@@ -45,7 +48,7 @@ Connected to ESP8266 on COM5:
 Chip type:          ESP8266EX
 Features:           Wi-Fi, 160MHz
 Crystal frequency:  26MHz
-MAC:                c4:d8:d5:3d:44:3c
+MAC:                c4:X8:dX:Xd:4X:Xc
 
 Stub flasher running.
 
@@ -63,7 +66,7 @@ Connected to ESP8266 on COM5:
 Chip type:          ESP8266EX
 Features:           Wi-Fi, 160MHz
 Crystal frequency:  26MHz
-MAC:                c4:d8:d5:3d:44:3c
+MAC:                c4:X8:dX:Xd:4X:Xc
 
 Uploading stub flasher...
 Running stub flasher...
