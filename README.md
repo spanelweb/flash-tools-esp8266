@@ -11,7 +11,7 @@ Terimakasih untuk orang baik.
 <hr />
 
 ## Guide
-Unduh dan pasang [CH304](https://www.wemos.cc/en/latest/ch340_driver.html) jika belum. Colokan USB dari papan ke komputer lalu Buka/jalankan FlashToolESP8266.exe lihat catatan dibawah untuk detailnya.
+Unduh dan pasang [CH304](https://www.wemos.cc/en/latest/ch340_driver.html) jika belum. Colokan USB dari papan ke komputer tunggu hingga serial usb terbaca (lihat di Manajer Perangkat) lalu Buka/jalankan FlashToolESP8266.exe lihat catatan dibawah untuk detailnya.
 
 ``` txt
 
