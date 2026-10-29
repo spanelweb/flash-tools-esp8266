@@ -4,6 +4,15 @@ Flash Tools ESP8266 tampilan terminal dipersembahkan oleh Suryo Dwijayanto untuk
 ## Unduh
 [FlashToolsESP8266.exe](https://github.com/spanelweb/flash-tools-esp8266/releases/download/1.0.0.0/FlashToolsESP8266.exe)
 
+## Sumbangan
+Terimakasih untuk orang baik.
+
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/650c28ef-0807-4404-8a1c-c1cc7d0bf734" />
+<hr />
+
+## Guide
+Unduh [CH304](https://www.wemos.cc/en/latest/ch340_driver.html) jika belum. Buka/jalankan FlashToolESP8266.exe lihat catatan dibawah.
+
 ``` txt
 
 
@@ -101,3 +110,7 @@ Hard resetting via RTS pin...
 
 Tekan Enter untuk keluar...
 ```
+
+<b>Terimakasih</b>
+
+Salam, ~ <b>Suryo DwiJayanto</b>
